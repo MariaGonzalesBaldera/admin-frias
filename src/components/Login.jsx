@@ -57,7 +57,7 @@ export default function Login({ onLogin }) {
         <div style={s.logoWrap}>
           <div style={s.brandIcon}>
               <img
-                src={'../../public/favicon.png'}
+                src={'/favicon.png'}
                 style={{ width: 40, height: 40 }}
               />
             </div>

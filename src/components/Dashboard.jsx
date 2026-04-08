@@ -130,7 +130,7 @@ export default function Dashboard({ onLogout, usuario }) {
           <div style={s.brand}>
             <div style={s.brandIcon}>
               <img
-                src={'../../public/favicon.png'}
+                src={'/favicon.png'}
                 style={{ width: 40, height: 40 }}
               />
             </div>
